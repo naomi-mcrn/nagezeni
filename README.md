@@ -6,3 +6,4 @@ This is nagezeni project.
 ## 目的
 
 私（naomi_mcrn）にDiscord/tipbot以外で投げ銭する用。
+
